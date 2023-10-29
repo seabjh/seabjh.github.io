@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "백주혜(白主惠)"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "백주혜(白主惠)"
+name                     : "통번역"
 description              : "translate"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
