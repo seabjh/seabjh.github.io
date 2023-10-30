@@ -16,9 +16,9 @@ minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt
 
 # Site Settings
 locale                   : "en-US"
-title                    : "통·번역"
-title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+title                    : "통·번역가"
+title_separator          : "|"
+subtitle                 : "백주혜(白主惠)의 홈페이지"
 name                     : "백주혜(白主惠)"
 description              : "translate"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -124,7 +124,7 @@ analytics:
 footer:
   links:
     - label: "Email"
-      icon: "fab fa-fw fa-envelope-square"
+      icon: "fas fa-fw fa-envelope-square"
       url: "seabjh@naver.com"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
