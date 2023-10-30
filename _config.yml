@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt
 
 # Site Settings
 locale                   : "en-US"
-title                    : " "
+title                    : "통·번역"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "백주혜(白主惠)"
@@ -103,21 +103,21 @@ analytics:
 
 
 # Site Author
-author:
-  name             : "중문 번역"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : # "한·중/中·韓 **통번역(通飜譯)**"
-  location         : "Republic of Korea"
-  email            : 
-  links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "seabjh@naver.com"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://seabjh.github.io/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
+#author:
+#  name             : "중문 번역"
+#  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+#  bio              : # "한·중/中·韓 **통번역(通飜譯)**"
+#  location         : "Republic of Korea"
+#  email            : 
+#  links:
+#    - label: "Email"
+#      icon: "fas fa-fw fa-envelope-square"
+#      url: "seabjh@naver.com"
+#    - label: "GitHub"
+#      icon: "fab fa-fw fa-github"
+#      url: "https://seabjh.github.io/"
+#    - label: "Instagram"
+#      icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
 
 # Site Footer
@@ -276,8 +276,8 @@ defaults:
       type: posts
     values:
       layout: single
-      author_profile: true
-      read_time: true
+      author_profile: #true
+      read_time: #true
       comments: # true
-      share: true
-      related: true
+      share: #true
+      related: #true
