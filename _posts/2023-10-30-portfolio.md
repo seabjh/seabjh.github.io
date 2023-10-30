@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Portfolio"
+title: "portfolio"
 header:
   image: assets/images/unsplash-image-3.jpg
 ---
@@ -21,7 +21,7 @@ header:
 - (웹소설) 러브캔버스
 - (웹툰) 단아하고 수려한 우리 도련님
 - (뮤지컬) 쾌파아가대주
-- (시) 서산에 노을 지는데
-- (시) 아무르 강은 흐른다
-- (시) 낙엽은 시간을 털어내며
+- (시집) 서산에 노을 지는데
+- (시집) 아무르 강은 흐른다
+- (시집) 낙엽은 시간을 털어내며
 - (영화) 무쌍
