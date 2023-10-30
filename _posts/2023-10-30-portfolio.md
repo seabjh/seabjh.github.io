@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "portfolio"
 header:
   image: assets/images/unsplash-image-3.jpg
