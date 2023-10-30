@@ -123,9 +123,9 @@ analytics:
 # Site Footer
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      # url:
+    - label: "Email"
+      icon: "fab fa-fw fa-envelope-square"
+      url: "seabjh@naver.com"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url:
