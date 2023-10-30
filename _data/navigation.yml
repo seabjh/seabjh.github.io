@@ -3,9 +3,9 @@ main:
   - title: "Home"
     url: https://seabjh.github.io
   - title: "About"
-    url: https://seabjh.github.io/first/
+    url: https://seabjh.github.io/about/
   - title: "Portfolio"
-    url: https://seabjh.github.io/first/
+    url: https://seabjh.github.io/portfolio/
   - title: "Contact"
     url: https://seabjh.github.io/contact/
   #   url: /sitemap/
